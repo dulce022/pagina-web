@@ -1,2 +1,0 @@
-Hola soy un nuevo archivo en el repositorio
-Holaaaas
